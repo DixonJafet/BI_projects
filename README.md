@@ -22,4 +22,4 @@ Dashboard:
 ## Flight Predictions Delay
 Dashboard of ETL and prediction project [*Project*](https://github.com/DixonJafet/Flights_Predictions) .
 Dashboard:
-* **Link**: [*PowerBI_Dashboard*](https://app.powerbi.com/view?r=eyJrIjoiNTliODAzODEtOTJhYS00ZmIyLTg0ODAtMWYzYTRlNDM4MWE0IiwidCI6IjRhYmVmM2RjLWU2OTItNGRjOC05MmViLTkxNGExZjdjMmIyMSIsImMiOjZ9)
+* **Link**: **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTliODAzODEtOTJhYS00ZmIyLTg0ODAtMWYzYTRlNDM4MWE0IiwidCI6IjRhYmVmM2RjLWU2OTItNGRjOC05MmViLTkxNGExZjdjMmIyMSIsImMiOjZ9)**
